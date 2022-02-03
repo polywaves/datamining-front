@@ -1,4 +1,4 @@
-# ptk-front
+# datamining frontend
 
 ## Build Setup
 
